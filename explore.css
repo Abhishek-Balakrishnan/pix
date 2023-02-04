@@ -26,8 +26,8 @@
 position: absolute;
     margin-top: -384px;
     font-size: 60px;
-    color: white;
-    margin-left: 80px;
+    color: rgb(255, 255, 255);
+    /* margin-left: 80px; */
     font-weight: 900;
 }
 #a8{
@@ -61,22 +61,22 @@ position: absolute;
 }
 #b6{
     /* position: absolute; */
-background-color: white;
-float: left;
-width: 232px;
-height: 200px;
+ background-color: white;
+/* float: left; */
+/* width: 232px; */
+/* height: 200px; */
 margin-top: -42px;
-}
+} 
 #b7{
     height: 100px;
     width: 130px;
 }
 #b8{
-    height: 100px;
-    width: 100px;
-    margin-left: 67px;
+    height: 130px;
+    width: 130px;
+    /* margin-left: 67px; */
     /* margin-bottom: 50px; */
-    margin-top: 70px;
+    /* margin-top: 70px; */
 }
 #b9{
     margin-left: 235px;
@@ -155,4 +155,11 @@ margin-top: -42px;
 #d8{
     margin-left: 700px;
     margin-bottom: 50px;
+#l1{
+    width: 100%;
+}
+#exam{
+    font-size: larger;
+    font-weight: 900;
+    color: red;
 }
